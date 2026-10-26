@@ -133,7 +133,7 @@ Through this project, I developed practical skills in:
 - ✔️ Presenting analytical findings to stakeholders
 
 ---
-<img width="788" height="413" alt="image" src="https://github.com/user-attachments/assets/9b12a092-ece0-4f02-a64b-f222cfce391a" />
+
 
 ## 🚀 Tools & Technologies
 
