@@ -18,6 +18,9 @@ I used **Tableau** to explore, analyse and visualise retail and sales datasets, 
 The project focused on developing practical data visualisation, analytical thinking and data storytelling skills to support business decision-making.
 
 ---
+<img width="788" height="367" alt="image" src="https://github.com/user-attachments/assets/5b80585d-43e3-4cde-8e7b-6cbe793cdd25" />
+
+<img width="788" height="411" alt="image" src="https://github.com/user-attachments/assets/02c57161-aee7-443a-bf92-b812474c3a61" />
 
 ## 🎯 Project Objectives
 
@@ -39,6 +42,10 @@ The project focused on developing practical data visualisation, analytical think
 - ✅ Used dashboard actions to explore data.
 - ✅ Created KPI summaries to highlight sales performance.
 - ✅ Organised visualisations for clear business reporting.
+<img width="788" height="405" alt="image" src="https://github.com/user-attachments/assets/6eac3354-bc6d-43b4-83db-c9865f763d3a" />
+
+<img width="788" height="417" alt="image" src="https://github.com/user-attachments/assets/2aaf26af-8e6a-42a6-bcbd-576ff4d36f97" />
+
 
 ### 🔍 Filters & Interactive Controls
 
@@ -75,6 +82,7 @@ Used Tableau calculated fields to create business metrics and support analysis.
 
 
 ---
+<img width="788" height="413" alt="image" src="https://github.com/user-attachments/assets/7bb4e261-4e14-40c5-bc7c-0b08516521c6" />
 
 ## 📂 Dataset Analysis
 
@@ -150,4 +158,8 @@ Through this project, I developed practical skills in:
 
 ⭐ *Developing practical business intelligence and data analytics skills through hands-on projects.*
 ## Dashboard 
+[link to my Dashboard](https://public.tableau.com/views/Sportify_17901530143570/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[link to my Dashboard](https://public.tableau.com/views/GBemploymentData/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 [link to my Dashboard](https://public.tableau.com/views/Sportify_17901530143570/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
