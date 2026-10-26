@@ -62,7 +62,6 @@ Used Tableau calculated fields to create business metrics and support analysis.
 | Calculated Fields | Develop custom KPIs |
 
 ---
-<img width="788" height="367" alt="image" src="https://github.com/user-attachments/assets/e49296f2-a2e5-438b-a64d-302a21017189" />
 
 ## 📈 Charts & Visualisations
 
@@ -74,7 +73,6 @@ Used Tableau calculated fields to create business metrics and support analysis.
 | 🗺️ Map Chart | Visualise geographical sales performance |
 | 📉 KPI Cards | Highlight key business metrics |
 
-<img width="788" height="411" alt="image" src="https://github.com/user-attachments/assets/89da6a55-0269-464e-b314-fbdc2292b036" />
 
 ---
 
@@ -83,7 +81,6 @@ Used Tableau calculated fields to create business metrics and support analysis.
 ### 🛍️ Retail Sales Analysis
 
 Explored retail transactions to understand:
-<img width="788" height="405" alt="image" src="https://github.com/user-attachments/assets/c688680b-219b-4356-816a-1d34656e915a" />
 
 - 💷 Total sales and revenue performance
 - 🛒 Product category performance
@@ -100,7 +97,6 @@ Used geographical visualisations to:
 - Support location-based business analysis.
 
 ---
-<img width="788" height="417" alt="image" src="https://github.com/user-attachments/assets/d8cd7544-c210-4594-8580-f80ffadf3157" />
 
 ## 💡 Data Storytelling
 
@@ -117,8 +113,6 @@ Rather than simply displaying charts, I focused on creating dashboards that help
 The project strengthened my ability to turn complex datasets into accessible and meaningful business information.
 
 ---
-<img width="788" height="413" alt="image" src="https://github.com/user-attachments/assets/3646b27f-2b02-4800-aa72-13e8d9e2c679" />
-
 
 ## 🎯 Learning Outcomes
 
@@ -155,3 +149,5 @@ Through this project, I developed practical skills in:
 ---
 
 ⭐ *Developing practical business intelligence and data analytics skills through hands-on projects.*
+## Dashboard 
+[link to my Dashboard](https://public.tableau.com/views/Sportify_17901530143570/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
